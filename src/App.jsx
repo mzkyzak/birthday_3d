@@ -1,8 +1,3 @@
-
-
-
-
-
 import { useState } from 'react'
 import { Canvas } from '@react-three/fiber'
 import Scene1Gift from './components/Scene1Gift'
