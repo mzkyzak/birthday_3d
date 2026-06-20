@@ -48,16 +48,17 @@ Proyek ini dibagi menjadi beberapa *scene* utama untuk menciptakan alur cerita (
 - **Framer Motion** (Deklaratif UI Animation)
 - **GSAP** (Animasi transisi kompleks tingkat tinggi)
 - **Vanilla CSS** (Penataan gaya modern dan interaktif)
+- **NPM** (menjalanin server/dependency)
 
 ## 🛠️ Cara Menjalankan Proyek (Local Development)
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username-kamu/nama-repo.git
+   https://github.com/mzkyzak/birthday_3d.git
    ```
 2. Masuk ke dalam direktori proyek:
    ```bash
-   cd nama-repo
+   cd birthday_3d
    ```
 3. Install dependensi:
    ```bash
