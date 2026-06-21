@@ -73,6 +73,12 @@ Proyek ini dibagi menjadi beberapa *scene* utama untuk menciptakan alur cerita (
 
 Dibuat oleh **Taufiq Ikhsan Muzaky** (@mzkyzak) – Seorang siswa Rekayasa Perangkat Lunak (RPL) yang bersemangat dalam mempelajari teknologi web modern dan membangun antarmuka interaktif yang memukau.
 
+## 😊 Preview 
+```bash
+https://birthday-3d-mzkyzak.vercel.app/
+```
+https://birthday-3d-mzkyzak.vercel.app/
+
 ---
 
 *“Konsistensi dalam belajar adalah kunci menuju pemahaman yang mendalam.”*
