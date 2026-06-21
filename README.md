@@ -5,7 +5,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-Sebuah pengalaman website interaktif 3D yang dibuat secara khusus untuk merayakan ulang tahun ke-18. Proyek ini menggabungkan animasi kompleks, rendering 3D, dan transisi sinematik untuk memberikan pengalaman visual kelas atas (Awwwards-tier).
+Sebuah pengalaman website interaktif 3D yang dibuat secara khusus untuk merayakan ulang tahun ke-18 2008-06-18. Proyek ini menggabungkan animasi kompleks, rendering 3D, dan transisi sinematik untuk memberikan pengalaman visual kelas atas (Awwwards-tier).
 
 ## ✨ Fitur Utama
 
